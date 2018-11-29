@@ -1,0 +1,20 @@
+{"FlatDiscountSlabs":{
+		"Slab": [
+			{
+				"RangeMin": "0",
+				"RangeMax": "3000",
+				"discPerc": "2"
+			},
+			{
+				"RangeMin": "3001",
+				"RangeMax": "7000",
+				"discPerc": "4"
+			},
+			{
+				"RangeMin": "7000",
+				"RangeMax": "8000",
+				"discPerc": "5"
+			}
+		]
+}
+}
